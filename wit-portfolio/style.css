@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+}
+
+
+.nav-links{
+  text-decoration: none;
+  color: #f2e9e4f1;
+  margin: 0 1em;
+  font-size: 1em;
+}
+
+nav{
+  background-color: #22223b;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+#nav-list{
+  list-style: none;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  margin-right: 5em;
+}
+
+#emoji{
+  margin-left: 5em;
+  font-size: 2em;
+
+}
+
+
+
+

@@ -1,0 +1,6 @@
+.container{
+  display: flex;
+  flex-direction: row; /** default **/
+  /** other values: row-reverse, column, 
+  and column-reverse**/
+}

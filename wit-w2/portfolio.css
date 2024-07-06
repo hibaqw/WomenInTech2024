@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+nav{
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  background-color: #22223b;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+h2{
+  font-size: 3em;
+}
+.nav-links, h2{
+  color: #f2e9e4;
+}
+
+
+.nav-list {
+  list-style: none;
+  font-size: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right:5em ;
+  width: 40%;
+}
+
+#nav-title {
+  margin-left: 5em
+}
+
+.nav-list {
+  margin-right: 5em
+}
+
+li {
+  margin: 0, 1em;
+}
+
+
+
+
